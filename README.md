@@ -1,6 +1,6 @@
 [![Banner](https://raw.githubusercontent.com/dronatoo21/dronatoo21/5d989143829cf512416d6f37ba99bfe2b925a10d/git%20ban.png)](https://www.facebook.com/profile.php?id=100093659983951)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dronatoo21&theme=yeblu&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dronatoo21&theme=yeblu&date_format=M%20j%5B%2C%20Y%5D)]()
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
