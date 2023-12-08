@@ -16,7 +16,7 @@
 
  ## :high_brightness: Technologies that I know
  <br/>
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 - 🔭 I’m currently working on ...
