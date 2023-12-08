@@ -8,7 +8,8 @@
 
 ## :mailbox: Reach me out
 
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/dronatoo21/dronatoo21/main/twitter.png">](https://raw.githubusercontent.com/dronatoo21/dronatoo21/main/facebook.png>](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/dronatoo21/dronatoo21/blob/main/linkedin.png")
+
+[<p align="center"><img height="75" src="https://raw.githubusercontent.com/dronatoo21/dronatoo21/main/twitter.png">]()[<img height="75" src="https://raw.githubusercontent.com/dronatoo21/dronatoo21/main/facebook.png">]()[<img height="75" src="https://github.com/dronatoo21/dronatoo21/blob/main/linkedin.png"> </p>]()
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
