@@ -1,10 +1,11 @@
 [![Banner](https://raw.githubusercontent.com/dronatoo21/dronatoo21/5d989143829cf512416d6f37ba99bfe2b925a10d/git%20ban.png)](https://www.facebook.com/profile.php?id=100093659983951)
 
 ## :chart_with_downwards_trend: Current Stats
+<br/>
 
 <p align="center">
   <img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=dronatoo21&date_format=M%20j%5B%2C%20Y%5D&background=0A122E&stroke=FFCE08&ring=FFCE08&fire=FFCE08&currStreakNum=FFFFFF&sideNums=FFCE08&currStreakLabel=FFCE08&dates=FFFFFF&excludeDaysLabel=FFFFFF&sideLabels=FFCE08" />
-</p>
+</p><br/>
 
 ## :email: Reach me out
 <br/>
@@ -23,14 +24,15 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,netlify,vite,firebase,vercel" />
   </a>
-</p>
+</p><br />
+
+## :eyes: Current overview
+
+### 🔭 I’m working - In Programming Hero. 
+### 🌱 I’m exploring - Advance motion graphics for web. 
+### 👯 I’m looking - To collaborate on open source projects. 
+### 🤔 I’m trying - To help people learn web development. 
+### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+<br />
