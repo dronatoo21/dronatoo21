@@ -6,7 +6,7 @@
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=dronatoo21&theme=yeblu&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-## :mailbox: Reach me out
+## :email: Reach me out
 <br/>
 
 [<p align="center"><img height="75" src="https://raw.githubusercontent.com/dronatoo21/dronatoo21/705406ada9f57a462641f0101851a34739d09f16/twitter.png">]() [<img height="75" src="https://raw.githubusercontent.com/dronatoo21/dronatoo21/main/facebook.png">]() [<img height="75" 
@@ -18,7 +18,7 @@
  <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,react,tailwind,css,html,js,vercel,vite,firebase" />
   </a>
 </p>
 
