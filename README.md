@@ -14,7 +14,7 @@
 
  <br/>
 
- ## :high_brightness: Technologies that I know
+ ## :bomb: Technologies that I know
  <br/>
 <p align="center">
   <a href="https://skillicons.dev">
