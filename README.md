@@ -3,7 +3,7 @@
 ## :chart_with_downwards_trend: Current Stats
 
 <p align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=dronatoo21&theme=github-dark-dimmed&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="75%" src="[https://github-readme-streak-stats.herokuapp.com?user=dronatoo21&theme=github-dark-dimmed&date_format=M%20j%5B%2C%20Y%5D](https://github-readme-streak-stats.herokuapp.com?user=dronatoo21&date_format=M%20j%5B%2C%20Y%5D&background=0A122E&stroke=FFCE08&ring=FFCE08&fire=FFCE08&currStreakNum=FFFFFF&sideNums=FFCE08&currStreakLabel=FFCE08&dates=FFFFFF&excludeDaysLabel=FFFFFF&sideLabels=FFCE08)" />
 </p>
 
 ## :email: Reach me out
