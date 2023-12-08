@@ -14,7 +14,9 @@
 
  <br/>
 
- ## :computer: Technologies that I know
+ ## :high_brightness: Technologies that I know
+ <br/>
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
 
 
 - 🔭 I’m currently working on ...
