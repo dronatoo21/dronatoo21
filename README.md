@@ -10,8 +10,8 @@
 ## :email: Reach me out
 <br/>
 
-[<p align="center">[<img height="75" width="250" src="https://raw.githubusercontent.com/dronatoo21/dronatoo21/705406ada9f57a462641f0101851a34739d09f16/twitter.png">](https://twitter.com/dronatoo21) [<img height="75" width="250" src="https://raw.githubusercontent.com/dronatoo21/dronatoo21/main/facebook.png">](https://www.facebook.com/profile.php?id=61554106064324) [<img width="250" height="75" 
- src="https://github.com/dronatoo21/dronatoo21/blob/main/linkedin.png">](https://www.linkedin.com/in/si-fahim-5463b62a4/)</p>]
+<p>[<p align="center">[<img height="75" width="250" src="https://raw.githubusercontent.com/dronatoo21/dronatoo21/705406ada9f57a462641f0101851a34739d09f16/twitter.png">](https://twitter.com/dronatoo21) [<img height="75" width="250" src="https://raw.githubusercontent.com/dronatoo21/dronatoo21/main/facebook.png">](https://www.facebook.com/profile.php?id=61554106064324) [<img width="250" height="75" 
+ src="https://github.com/dronatoo21/dronatoo21/blob/main/linkedin.png">](https://www.linkedin.com/in/si-fahim-5463b62a4/)</p>]</p>
 
  <br/>
 
