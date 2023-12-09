@@ -32,3 +32,7 @@
 ### 🤔 I’m trying - To help people learn web development.
 
 <br />
+
+## :mortar_board: I work
+
+### :star: Creating and Developing websites. Designing and implementing the visual elements of a website or web application. 
