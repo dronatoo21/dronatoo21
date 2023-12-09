@@ -10,7 +10,7 @@
 ## :email: Reach me out
 <br/>
 
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/dronatoo21/dronatoo21/705406ada9f57a462641f0101851a34739d09f16/twitter.png">]() [<img height="75" src="https://raw.githubusercontent.com/dronatoo21/dronatoo21/main/facebook.png">](https://www.facebook.com/profile.php?id=100093659983951) [<img height="75" 
+[<p align="center"><img height="75" width="300" src="https://raw.githubusercontent.com/dronatoo21/dronatoo21/705406ada9f57a462641f0101851a34739d09f16/twitter.png">]() [<img height="75" width="300" src="https://raw.githubusercontent.com/dronatoo21/dronatoo21/main/facebook.png">](https://www.facebook.com/profile.php?id=100093659983951) [<img width="300" height="75" 
  src="https://github.com/dronatoo21/dronatoo21/blob/main/linkedin.png"> </p>]()
 
  <br/>
