@@ -33,6 +33,6 @@
 
 <br />
 
-## :mortar_board: What I work
+## :computer: What I work
 
 ### :star: Creating and Developing websites. Designing and implementing the visual elements of a website or web application. 
