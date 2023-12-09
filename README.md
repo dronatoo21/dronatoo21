@@ -28,7 +28,7 @@
 ## :bookmark: Current overview
 
 <div align="left">
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={dronatoo21}&theme={default}"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={dronatoo21}&theme={default}"></a>
 </div>
  
 ### 🌱 I’m exploring - next-js for web. 
