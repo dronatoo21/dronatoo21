@@ -7,9 +7,6 @@
   <img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=dronatoo21&date_format=M%20j%5B%2C%20Y%5D&background=0A122E&stroke=FFCE08&ring=FFCE08&fire=FFCE08&currStreakNum=FFFFFF&sideNums=FFCE08&currStreakLabel=FFCE08&dates=FFFFFF&excludeDaysLabel=FFFFFF&sideLabels=FFCE08" />
 </p><br/>
 
-## my stats
-https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg
-
 ## :email: Reach me out
 <br/>
 
