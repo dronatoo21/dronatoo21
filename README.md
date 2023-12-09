@@ -1,4 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/dronatoo21/dronatoo21/5d989143829cf512416d6f37ba99bfe2b925a10d/git%20ban.png)](https://www.facebook.com/profile.php?id=61554106064324)
+[![Banner](https://raw.githubusercontent.com/dronatoo21/dronatoo21/main/mainBanner.jpg)](https://www.facebook.com/profile.php?id=61554106064324)
 
 ## :chart_with_downwards_trend: My Streaks
 <br/>
