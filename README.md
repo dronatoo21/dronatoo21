@@ -27,7 +27,7 @@
 
 ## :bookmark: Current overview
  
-### 🌱 I’m exploring - New technologies for web. 
+### 🌱 I’m exploring - Threejs for web. 
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development.
 
