@@ -1,6 +1,6 @@
 [![Banner](https://raw.githubusercontent.com/dronatoo21/dronatoo21/5d989143829cf512416d6f37ba99bfe2b925a10d/git%20ban.png)](https://www.facebook.com/profile.php?id=100093659983951)
 
-## :chart_with_downwards_trend: Current Stats
+## :chart_with_downwards_trend: My Current Stats
 <br/>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
  <br/>
 
- ## :bomb: Technologies that I know
+ ## :bomb: My Skills
  <br/>
 <p align="center">
   <a href="https://skillicons.dev">
